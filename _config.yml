@@ -29,5 +29,8 @@ navigation:
   - name: Contact
     id: 5d246332-3eeb-4d14-b5cf-6d535a2e3731
     type: content
+  - name: Instagram
+    url: 'https://www.instagram.com/kericyoga/'
+    type: external
 title: Yoga Fett
 description: Least feared pose hunter in the galaxy
