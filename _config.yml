@@ -16,5 +16,9 @@ author:
   email: keric@keric.com
   url: 'http://www.keric.com'
 name: Yoga Fett
+navigation:
+  - name: Home
+    id: ae02d005-a6b2-4e0e-8466-654498f28c5f
+    type: content
 title: Yoga Fett
 description: Least feared pose hunter in the galaxy
