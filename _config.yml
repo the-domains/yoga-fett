@@ -26,5 +26,8 @@ navigation:
   - name: Schedule
     id: 02511bad-7427-43a4-b129-32fc4dc8a137
     type: content
+  - name: Instagram
+    url: 'https://www.instagram.com/kericyoaga'
+    type: external
 title: Yoga Fett
 description: Least feared pose hunter in the galaxy
