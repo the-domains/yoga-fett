@@ -23,5 +23,8 @@ navigation:
   - name: About
     id: a9fa804d-34ad-4e9f-af83-9dce6619b822
     type: content
+  - name: Schedule
+    id: 02511bad-7427-43a4-b129-32fc4dc8a137
+    type: content
 title: Yoga Fett
 description: Least feared pose hunter in the galaxy
