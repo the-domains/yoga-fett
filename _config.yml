@@ -1,8 +1,23 @@
-typography_spectrum: 0.2095185441430658
+author:
+  name: Keric
+  email: keric@keric.com
+  url: 'http://www.keric.com'
+title: Yoga Fett
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.7108646281994879
-  lightness: 0.8851803261786699
   saturation: 0.9479110937099904
+  brandStrength: 0.7108646281994879
   rhythmicContrast: 0.9976186943240464
   brandColors:
     - '#232323'
@@ -10,12 +25,9 @@ color:
     - '#979797'
     - '#4E4E4E'
     - '#CFCFCF'
-layout_spectrum: 0.33993582567200065
-author:
-  name: Keric
-  email: keric@keric.com
-  url: 'http://www.keric.com'
-name: Yoga Fett
+  lightness: 0.8851803261786699
+typography_spectrum: 0.2095185441430658
+description: Least feared pose hunter in the galaxy
 navigation:
   - name: Home
     id: ae02d005-a6b2-4e0e-8466-654498f28c5f
@@ -32,5 +44,5 @@ navigation:
   - name: Contact
     id: 5d246332-3eeb-4d14-b5cf-6d535a2e3731
     type: content
-title: Yoga Fett
-description: Least feared pose hunter in the galaxy
+layout_spectrum: 0.009398496
+name: Yoga Fett
