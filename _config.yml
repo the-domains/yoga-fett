@@ -6,9 +6,9 @@ color:
   saturation: 0.9479110937099904
   rhythmicContrast: 0.9976186943240464
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#232323'
+    - '#787878'
+    - '#979797'
+    - '#4E4E4E'
+    - '#CFCFCF'
 name: Yoga Fett
